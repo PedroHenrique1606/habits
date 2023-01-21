@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este **projeto** consiste em ajudar você a fazer uma checklist do seu dia a dia, **registrando os hábitos** feitos e acompanhando de forma precisa os seus hábitos **diários**.
 
+-[Visite o projeto online]()
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
